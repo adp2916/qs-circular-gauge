@@ -32,6 +32,8 @@ Add a segments. i.e. good range and bad range.
 
 ### Needle
 Configure the needle display and color.
+<br>
+
 ![needle](img/needle.png)
 
 ### Customize Header/Footer
