@@ -1,6 +1,6 @@
 # Qlik Sense D3 Circular Gauge Designer
 
-![KPIwithImgDisplay](img/circular_gauge.PNG)
+![KPIwithImgDisplay](img/circular_gauge.png)
 
 ### Use template created in demo app to start designing gauge
 
@@ -8,7 +8,7 @@
 # Measure configuration (Data)
 
 ### Main Kpi
-![mainKpi](img/data_kpi.PNG)
+![mainKpi](img/data_kpi.png)
 
 ### Center Kpi
 ![maincKpi](img/data_ckpi.png)
